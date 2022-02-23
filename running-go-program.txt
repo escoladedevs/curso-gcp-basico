@@ -1,0 +1,9 @@
+1) git clone https://github.com/GoogleCloudPlatform/golang-samples.git
+
+2) cd golang-samples/appengine/go11x/helloworld/
+
+3) gcloud components install app-engine-go
+
+4) gcloud app deploy
+
+
